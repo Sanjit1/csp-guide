@@ -39,3 +39,7 @@ li a:hover {
 .page-title {
     text-align: center;
 }
+
+p {
+    font-size: larger;
+}
